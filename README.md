@@ -27,6 +27,9 @@ TuitionSplit is designed to make tuition support more organized for students who
 - Soroban CLI
 - Stellar testnet account
 
+## Future Scope
+TBA
+
 ## How to Build
 ```bash
 soroban contract build
