@@ -1,0 +1,3 @@
+[workspace]
+members = ["contracts/tuition_split"]
+resolver = "2"
